@@ -49,4 +49,9 @@ function go(target){
 }
 
 .info { color: #666; font-size: 14px; }
+.pager button:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
 </style>
