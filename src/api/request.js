@@ -1,8 +1,8 @@
 import axios from "axios";
 
-const request = axios.create({
-    baseURL: "/api",
-    timeout: 5000
+const request=axios.create({
+    baseURL:import.meta.env.DEV?"/api":"https://jsonplaceholder.typicode.com",
+    timeout:5000
 });
 
 request.interceptors.request.use((config) => {
