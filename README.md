@@ -8,6 +8,10 @@
 - **演示地址**：https://vue-admin-panel-nu.vercel.app （部署在 Vercel，国内访问需外网环境）
 - 国内备用：https://vue-user-panel.app.workbuddy.host/?sharecode=NSTDUHSJE3
 - **源码仓库**：https://github.com/Ysolt-bit/vue-admin-panel
+- <img width="946" height="522" alt="屏幕截图 2026-11-08 220102" src="https://github.com/user-attachments/assets/1cadc176-2cb8-4f79-b471-0c28a1102d82" />
+<img width="544" height="422" alt="屏幕截图 2026-11-08 220120" src="https://github.com/user-attachments/assets/62f7b1b4-fe06-4b30-9432-2361719ae2be" />
+<img width="509" height="472" alt="屏幕截图 2026-11-08 220156" src="https://github.com/user-attachments/assets/70795f8d-48eb-4825-92c3-26630e390a61" />
+
 
 ## 技术栈
 
